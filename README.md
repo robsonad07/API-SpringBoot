@@ -24,7 +24,7 @@ Este é um projeto simples de uma API Restful desenvolvida com Spring Boot 3 par
 1. Clone este repositório:
 
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/robsonad07/API-SpringBoot)
+    git clone https://github.com/robsonad07/API-SpringBoot
     ```
 
 2. Acesse o diretório do projeto:
