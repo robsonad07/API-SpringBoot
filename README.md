@@ -59,4 +59,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 **Autor:** Robson do Amaral Diógenes  
 **Contato:** robsonad07@gmail.com 
-**Github:** [seu-usuario](https://github.com/robsonad07)
+**Github:** [robsonad07](https://github.com/robsonad07)
